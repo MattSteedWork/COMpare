@@ -3,7 +3,7 @@
 
 [#] Checks if associated EXE or DLL is present on the system
 
-[#]  to HTML spreadsheet.
+[#] Exports to HTML spreadsheet.
 
 ## CLI
 <img width="1350" height="253" alt="Screen1" src="https://github.com/user-attachments/assets/5a035974-e838-4887-9424-f7a488589742" />
